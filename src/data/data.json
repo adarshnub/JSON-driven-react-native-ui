@@ -1,0 +1,32 @@
+{
+  "title": "JSON-Driven react-native App",
+  "body": [
+    {
+      "type": "CustomText",
+      "text": "Welcome to my JSON-driven app",
+      "style": {
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "marginBottom": 10
+      }
+    },
+    {
+      "type": "CustomText",
+      "text": "This is how i build a JSON-driven react-native ",
+      "style": {
+        "fontSize": 16,
+        "textAlign": "center",
+        "marginBottom": 20
+      }
+    },
+    {
+      "type": "CustomText",
+      "text": "Thanks for checking it out",
+      "style": {
+        "fontSize": 14,
+        "textAlign": "center"
+      }
+    }
+  ]
+}
